@@ -308,7 +308,7 @@
           <item row="1" column="0">
            <widget class="QLabel" name="mFrameWidthLabel">
             <property name="text">
-             <string>Frame size</string>
+             <string>Frame width</string>
             </property>
             <property name="wordWrap">
              <bool>false</bool>
